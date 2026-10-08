@@ -1,4 +1,5 @@
 aria2
+base-devel
 bluez
 bluez-utils
 clang
