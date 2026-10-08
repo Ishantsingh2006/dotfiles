@@ -1,0 +1,5 @@
+cloudflare-warp-bin
+noctalia-greeter
+ps_mem
+umbriel-git
+xdg-desktop-portal-umbriel-git
