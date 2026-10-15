@@ -286,6 +286,12 @@ follows_mouse = false
 "Mod+Down" = "window-focus-down"
 "Mod+Up" = "window-focus-up"
 "Mod+Right" = "window-focus-right"
+"Mod+Ctrl+Left" = "window-consume-or-expel-left"
+"Mod+Ctrl+Right" = "window-consume-or-expel-right"
+"Mod+Ctrl+Up" = "window-move-up"
+"Mod+Ctrl+Down" = "window-move-down"
+"Mod+XF86PowerOff" = "spawn:systemctl poweroff"
+"XF86PowerOff" = "spawn:noctalia msg panel-toggle session"
 
 "Mod+Shift+S" = "spawn:noctalia msg screenshot-region"
 "Print" = "spawn:noctalia msg screenshot-fullscreen"
