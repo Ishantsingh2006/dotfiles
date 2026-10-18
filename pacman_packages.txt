@@ -30,6 +30,7 @@ mpv
 networkmanager
 nm-connection-editor
 noctalia
+noctalia-greeter
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
