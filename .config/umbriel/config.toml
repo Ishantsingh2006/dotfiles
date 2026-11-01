@@ -247,13 +247,8 @@ numlock_toggle = true
 
 "Mod+Period" = "workspace-next"
 "Mod+Comma" = "workspace-previous"
-"Mod+WheelDown" = { action = "workspace-next", cooldown_ms = 150 }
-"Mod+WheelUp" = { action = "workspace-previous", cooldown_ms = 150 }
-
 "Mod+Ctrl+Period" = "window-move-to-workspace-next"
 "Mod+Ctrl+Comma" = "window-move-to-workspace-previous"
-"Mod+Ctrl+WheelDown" = { action = "window-move-to-workspace-next", cooldown_ms = 150 }
-"Mod+Ctrl+WheelUp" = { action = "window-move-to-workspace-previous", cooldown_ms = 150 }
 
 # Scratchpad
 "Mod+Shift+Space" = { action = "window-move-to-scratchpad", repeat = false }
