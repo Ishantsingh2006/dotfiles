@@ -37,7 +37,6 @@ noto-fonts-emoji
 noto-fonts-extra
 nvtop
 obs-studio
-ouch
 pipewire
 pipewire-alsa
 pipewire-jack
