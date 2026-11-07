@@ -10,7 +10,8 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 alias clangpp='clang++ -g -std=c++23 -I/mnt/ish/CS0/include -include-pch /mnt/ish/CS0/include/bits/stdc++.h.pch'
-
+alias ff="fastfetch
+"
 export EDITOR="micro"
 export VISUAL="micro"
 
