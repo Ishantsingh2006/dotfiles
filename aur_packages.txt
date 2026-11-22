@@ -3,3 +3,4 @@ cloudflare-warp-bin
 ps_mem
 umbriel-git
 xdg-desktop-portal-umbriel-git
+zen-browser-bin
