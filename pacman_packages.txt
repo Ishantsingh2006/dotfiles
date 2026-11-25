@@ -1,3 +1,4 @@
+7zip
 aria2
 base-devel
 bluez
@@ -8,8 +9,8 @@ fastfetch
 firefox
 firewalld
 git
-gst-plugin-pipewire
 greetd
+gst-plugin-pipewire
 keyd
 kitty
 less
@@ -26,7 +27,6 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-nvtop
 obs-studio
 pipewire
 pipewire-alsa
